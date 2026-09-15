@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about coding and building amazing projects.
 
 ## 📫 Contact Me
-- **Email**: starhu147@gmail.com
+- **Email**: huxing@dexforce.top
 - **GitHub**: [@starhu147-ship-it](https://github.com/starhu147-ship-it)
 
 ## 🔧 Skills
